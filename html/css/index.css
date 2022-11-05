@@ -80,3 +80,179 @@
   #section2{
     display: flex;
   }
+
+.div31{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(209, 240, 196);
+    margin-left: 150px;
+    border-radius: 10px;
+  }
+
+.div32{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(15, 204, 204);
+    margin-left: 60px;
+    border-radius: 10px;
+}
+
+.div33{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(77, 210, 119);
+    margin-left: 60px;
+    border-radius: 10px;
+}
+.img2{
+    height: 80px;
+    margin-top: 20px;
+     padding-left: 70px;
+     
+}
+.img3{
+    height: 80px;
+    margin-top: 20px;
+    padding-left: 100px;
+
+
+}
+.img44{
+    height: 80px;
+    margin-top: 20px;
+    padding-left: 65px;
+     
+
+}.mission2{
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.missionpara{
+    padding: 30px;
+    margin-top: 0px;
+}
+#section3{
+    display: flex;
+}
+.img51{
+
+    height: 350px;
+    width: 400px;
+    margin-top: 80px;
+    margin-left: 150px;
+    border-radius: 15px;
+
+}
+.div51{
+    height: 400px;
+    width: 400px;
+
+    margin-top: 50px;
+    margin-left: 95px;
+}
+.h151{
+
+font-size: 40px;
+margin-bottom: 0px;
+
+}
+.h252{
+    margin-top: 0px;
+     font-size: 40px;
+}
+.button5{
+
+    background-color: rgb(255, 0, 0);
+    color: aliceblue;
+    font-weight: 700;
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+
+}
+
+
+#section6{
+
+    display: flex;
+}
+
+.div61{
+    height: 400px;
+    width: 400px;
+    margin-top: 80px;
+    margin-left: 150px;
+    margin-bottom: 50px;
+
+}
+.img6{
+    height: 400px;
+    width: 300px;
+    margin-top: 90px;
+    margin-left: 200px;
+    border-radius: 15px;
+
+}
+.h161{
+    font-size: 40px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.button6{
+    background-color: rgb(255, 60, 30);
+    color: aliceblue;
+    font-weight: 700;
+    padding: 10px 20px 10px 20px;
+    border-radius: 7px;
+}
+
+#section7{
+    display: flex;
+}
+
+.img7{
+    height: 370px;
+    border-radius: 15px;
+}
+.h17{
+
+    text-align: center;
+    margin-top: 50px;
+    font-weight: 700;
+    font-size: 40px;
+}
+.span7{
+    color: rgb(230, 117, 36);
+}
+.div71{
+    margin-left: 300px;
+    margin-top: 50px;
+     
+}
+.div72{
+    margin-top: 40px;
+    margin-left: 120px;
+    height: 400px;
+    width: 500px;
+}
+.h171{
+    font-size: 40px;
+    margin-bottom: 0px;
+
+}
+.h172{
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.span71{
+    color: chocolate;
+}
+.button7{
+    background-color: firebrick;
+    color: aliceblue;
+    font-weight: 700;
+    padding: 10px 20px 10px 20px ;
+    border-radius: 5px;
+    font-size: 15px;
+}
