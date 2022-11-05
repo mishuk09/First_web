@@ -1,3 +1,10 @@
+* {
+    margin:0px;
+    padding:0px;
+}
+
+
+
 .div0{
     margin-top: 150px;
 }
@@ -271,7 +278,8 @@ footer{
     color:  white;
     margin-bottom: 0px;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 0px;
+    margin-bottom: 10px;
 }
 .footerpara{
     color: aliceblue;
